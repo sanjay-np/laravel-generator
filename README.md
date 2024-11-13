@@ -7,7 +7,7 @@ A Laravel package to generate actions, traits, and services using artisan comman
 You can install the package via composer:
 
 ```bash
-composer require your-vendor/laravel-generator
+composer require sanjay-np/laravel-generator
 ```
 
 ## Usage
